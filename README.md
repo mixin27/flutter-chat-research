@@ -1,6 +1,6 @@
-# flutter_chat_research
+# Flutter Chat Research
 
-A new Flutter project.
+Researching chatting feature using flutter and firebase.
 
 ## Getting Started
 
